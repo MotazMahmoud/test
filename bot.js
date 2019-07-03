@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "514500934009618433"; // ايدي السررفر
-var channel = "514500934529974303";//ايدي الروم
+var server = "596050841463423005"; // ايدي السررفر
+var channel = "596050841463423008";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send(',Hi Btl And Meto Spam Anta men ??? ihihihihihihihidjfaagshfasfgasfhgjasgfhgasfgshagfhgasdfafsfghasghfhihihihihihihihihihihihihihihihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiasdghgasfgasgfvbnasvbfasvgfhgashgfhgashfgasghasjgskanfjnaskgnjhasgfhhaskfjjkasgshajfhnklsamlcvnjhasvbfgasgfhjaskkflsjakghsjkahoithuiashjfnasklnfgjkashgjasg,mas,gnjkasbhfghaskgjklasjhghauisghjakshgjhdsajkghakgjkljdklasghjkahsgkaskghsiohgioahgjklhasjhgjkasghghghghghghghghghghghghghghghghghghghi  ,
 , Hi Btl And Meto Spam Anta men ??? ihihihihihihihid')
